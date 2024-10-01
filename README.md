@@ -8,3 +8,9 @@ It produce a real time graph of temperature and the power applyed from the pid c
 You can send command to the controller and receive message from the controller.
 
 The physical setup use an SSR relay controlled using a transistor to feed 5V to the SSR (10mA limited pin too).
+
+Link to the ESP8266 code (setup first) :
+https://github.com/Carlsans/ESP8266RemotePIDController
+
+Link to the python control interface :
+https://github.com/Carlsans/PythonPIDremoteController
